@@ -1,6 +1,6 @@
 # Netflix Data Analysis: Auspify Internship
 
-**Intern:** Your Name
+**Intern:** Raveesha
 **Program:** Data Analysis Using Python (4-Week Internship), Auspify Technologies
 
 ## Tasks Completed
